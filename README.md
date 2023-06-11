@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryamantamotia" target="blank"><img src="https://img.shields.io/twitter/follow/aryamantamotia?logo=twitter&style=for-the-badge" alt="aryamantamotia" /></a> </p>
 
-- 🔭 I’m currently working on **Object Tracking Systems**
+- 🔭 I’m currently working on **Object and Motion Tracking Systems**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
